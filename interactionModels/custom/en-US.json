@@ -1,0 +1,64 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "bitcoin tracker",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "price",
+          "slots": [],
+          "samples": [
+            "what\u0027s the price of bitcoin today",
+            "bitcoin price today",
+            "live bitcoin price",
+            "current bitcoin price",
+            "give me the price of bitcoin",
+            "price of one bitcoin",
+            "what is bitcoin price",
+            "price",
+            "bitcoin price"
+          ]
+        },
+        {
+          "name": "fearAndGreedIndex",
+          "slots": [],
+          "samples": [
+            "what is crypto fear and greed",
+            "give me bitcoin fear and greed index",
+            "what is bitcoin fear and greed index ",
+            "bitcoin fear and greed index",
+            "bitcoin fear and greed",
+            "greed",
+            "fear",
+            "crypto fear and greed",
+            "give me the fear and greed index",
+            "what is the fear and greed index",
+            "fear and greed index",
+            "fear and greed"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
