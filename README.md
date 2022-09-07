@@ -1,6 +1,7 @@
 # bitcoin-tracker-alexa-skill
-Bitcoin tracker is a Amazon Alexa skill that provides the real-time price of Bitcoin and crypto market's current fear and greed index.
-Bitcoin's price is obtained from binance.us and the fear and greed index is provided by alternative.me. Bitcoin tracker also supports the Alexa.Presentation.APL interface for devices with graphical interface. 
+
+Bitcoin tracker is an Amazon Alexa skill that provides the real-time price of Bitcoin and crypto market's current fear and greed index.
+Bitcoin's price is obtained from binance.us and the fear and greed index is provided by alternative.me. Bitcoin tracker also supports the Alexa.Presentation.APL interface for devices with graphical interface.
 
 Examples of supported utterances to interact with the skill:
 

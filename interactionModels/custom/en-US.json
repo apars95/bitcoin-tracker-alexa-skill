@@ -27,10 +27,11 @@
           "name": "price",
           "slots": [],
           "samples": [
+            "the price of bitcoin",
+            "current bitcoin price",
             "what\u0027s the price of bitcoin today",
             "bitcoin price today",
             "live bitcoin price",
-            "current bitcoin price",
             "give me the price of bitcoin",
             "price of one bitcoin",
             "what is bitcoin price",
@@ -60,5 +61,5 @@
       "types": []
     }
   },
-  "version": "4"
+  "version": "5"
 }

@@ -5,9 +5,8 @@
         "en-US": {
           "summary": "Ask Bitcoin tracker for the current bitcoin price or crypto market\u0027s fear and greed index.",
           "examplePhrases": [
-            "Alexa open bitcoin tracker",
-            "what is the current price of bitcoin?",
-            "give me the fear and greed index."
+            "Alexa, ask Bitcoin tracker for bitcoin fear and greed index",
+            "Alexa, ask Bitcoin tracker for the price of bitcoin"
           ],
           "keywords": [
             "bitcoin",
@@ -38,7 +37,7 @@
         "isActive": false
       },
       "isAvailableWorldwide": true,
-      "testingInstructions": "Ask for price or fear and greed index.",
+      "testingInstructions": "Please provide specific instructions if my app gets rejected. I did not see any problem with the previous submission. Thank you",
       "category": "BUSINESS_AND_FINANCE",
       "distributionMode": "PUBLIC",
       "distributionCountries": []
